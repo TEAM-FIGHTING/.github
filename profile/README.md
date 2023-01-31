@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E9A55E,100:6EBFF9)
 
 
-# 🦁 멋쟁이사자처럼 프론트엔드스쿨 4기 JS 프로젝트
+# 멋쟁이사자처럼 프론트엔드스쿨 4기 JS 프로젝트
 > Since 2022.01.27 ~ 2022.02.08
 
 ## Contributors
