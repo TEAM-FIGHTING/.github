@@ -18,9 +18,6 @@
   <a href="https://github.com/seoohyeon">
     <img src="https://github.com/sumin-Kim-00.png" width="100">
   </a>
-  <a href="https://github.com/ovelute53">
-    <img src="https://github.com/ovelute53.png" width="100">
-  </a>
   <a href="https://github.com/hayeonn2">
     <img src="https://github.com/third-park.png" width="100">
   </a>
