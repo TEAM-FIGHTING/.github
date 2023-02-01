@@ -6,22 +6,22 @@
 
 ## Contributors
 <p>
-  <a href="https://github.com/Juhee-Hwang">
+  <a href="https://github.com/BrightSton">
     <img src="https://github.com/BrightSton.png" width="100">
   </a>
-  <a href="https://github.com/bellaru2022">
+  <a href="https://github.com/kimmoonju-102">
     <img src="https://github.com/kimmoonju-102.png" width="100">
   </a>
-  <a href="https://github.com/hyunwlee-dev">
+  <a href="https://github.com/lulla-by">
     <img src="https://github.com/lulla-by.png" width="100">
   </a>
-  <a href="https://github.com/seoohyeon">
+  <a href="https://github.com/sumin-Kim-00">
     <img src="https://github.com/sumin-Kim-00.png" width="100">
   </a>
-  <a href="https://github.com/hayeonn2">
+  <a href="https://github.com/third-park">
     <img src="https://github.com/third-park.png" width="100">
   </a>
-  <a href="https://github.com/kimmoonju-102">
+  <a href="https://github.com/tkdkfkgk">
     <img src="https://github.com/tkdkfkgk.png" width="100">
   </a>
 </p>
